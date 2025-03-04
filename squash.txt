@@ -1,3 +1,4 @@
 this is squash 1
 this is squash 2
 this is squash 3
+this is squash 4
