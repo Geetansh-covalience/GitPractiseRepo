@@ -1,1 +1,2 @@
 this is squash 1
+this is squash 2
