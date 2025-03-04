@@ -1,1 +1,2 @@
 This is main file
+This content is after main commit 1 and squash commit 1
